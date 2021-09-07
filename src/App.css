@@ -7,8 +7,8 @@
 }
 
 .image {
-	width: 350px;
-	margin-bottom: 1.5rem;
+	width: 64px;
+	/* margin-bottom: 1.5rem; */
 }
 
 @media (prefers-reduced-motion: no-preference) {
