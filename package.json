@@ -2,7 +2,7 @@
   "name": "covid-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kaiszenofficial.github.io/covid-tracker/",
+  "homepage": "https://supratikr.github.io/covid-tracker/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
